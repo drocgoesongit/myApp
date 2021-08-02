@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">729592748886-1buf0k0mcsq6t59uovq4vpqo3pf7m1js.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">729592748886</string>
+    <string name="google_api_key" translatable="false">AIzaSyBD5zhxDXxasW6GEj4QOLuqB6360whffAc</string>
+    <string name="google_app_id" translatable="false">1:729592748886:android:816542db329880edc694f7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBD5zhxDXxasW6GEj4QOLuqB6360whffAc</string>
+    <string name="google_storage_bucket" translatable="false">mini-world-2e912.appspot.com</string>
+    <string name="project_id" translatable="false">mini-world-2e912</string>
+</resources>

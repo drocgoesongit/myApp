@@ -1,0 +1,770 @@
+[
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_log_in.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_options.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_options.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_round.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\background_round.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bg.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_bg.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit__1_.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit__1_.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filledhome.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_filledhome.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_storyadd.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_storyadd.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bg.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_bg.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_story_viewing.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_story_viewing.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user_white.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user_white.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_iphone_12_pro_max___11.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_iphone_12_pro_max___11.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_searchfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_searchfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_addfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_addfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_users_posts.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_users_posts.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_procile.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_user_procile.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_addbutton.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_addbutton.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_users.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_users.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user_white.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user_white.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user_white.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user_white.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_post_layout.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\post_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_story_drawable.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\story_drawable.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menubar.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menubar.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_storyadd.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_storyadd.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_worldwide__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_worldwide__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_storyfiller.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_storyfiller.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_story.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_add_story.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pencil.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pencil.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_adding_post.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_adding_post.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_iphone_12_pro_max___11.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_iphone_12_pro_max___11.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_pirple_button.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_pirple_button.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_storyadd.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_storyadd.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_storyfiller.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_storyfiller.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_users.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_users.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_worldwide__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_worldwide__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_send_24.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pirple_button.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pirple_button.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_messagefilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_messagefilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_layout2.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\user_layout2.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_storyfiller.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_storyfiller.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_searchfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_searchfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user_white.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user_white.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\xml_layout.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\xml\\layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_searchfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_searchfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_semibold.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_addbutton.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_addbutton.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user_white.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user_white.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_storyadd.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_storyadd.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_iphone_12_pro_max___11.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_iphone_12_pro_max___11.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_detail.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_chat_detail.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_bold.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_addfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_addfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_filledhome.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_filledhome.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pirple_button.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pirple_button.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_worldwide__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_worldwide__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_storyfiller.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_storyfiller.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_storyadd.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_storyadd.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_addbutton.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_addbutton.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_addbutton.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_addbutton.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_addfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_addfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filledhome.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_filledhome.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\xml_tabss.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\xml\\tabss.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bg.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_bg.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_addfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_addfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_addbutton.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_addbutton.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_setting.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_profile_setting.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_users.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_users.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_send_24.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_searchfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_searchfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sender_background.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\sender_background.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_worldwide__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_worldwide__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\font_rubik_light.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\font\\rubik_light.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_light.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\font\\poppins_light.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_storyfiller.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_storyfiller.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_users.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_users.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_search.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\user_search.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pencil.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pencil.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_searchfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_searchfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_addfilled.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_addfilled.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_send_bubble.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\send_bubble.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_storyadd.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_storyadd.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_iphone_12_pro_max___11.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_iphone_12_pro_max___11.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pirple_stroke.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\pirple_stroke.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menubar.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menubar.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_send_24.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_iphone_12_pro_max___11.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_iphone_12_pro_max___11.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_post_layout.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\user_post_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile_post_layout.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\profile_post_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pencil.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pencil.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_messagefilled.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_messagefilled.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_searchfilled.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_searchfilled.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_page.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_iphone_12_pro_max___11.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_iphone_12_pro_max___11.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mecropped.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\mecropped.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_bg.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bg.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filledhome.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_filledhome.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_worldwide__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_worldwide__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_messagefilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_messagefilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_send_24.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_story_layout.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\story_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_messagefilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_messagefilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_for_post.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_for_post.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_bg.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_bg.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pirple_button.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pirple_button.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filledhome.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_filledhome.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic__5a10aa8_744e_4b62_a07e_707a93b030e4.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_iphone_12_pro_max___11.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_iphone_12_pro_max___11.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_send_24.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_send_24.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_white.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user_white.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bg.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_bg.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_users.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_users.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filledhome.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_filledhome.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_addfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_addfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\xml_tabs.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\xml\\tabs.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_addbutton.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_addbutton.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\profile.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_messagefilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_messagefilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_users.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_users.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pencil.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pencil.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_worldwide__1_.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_worldwide__1_.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_messagefilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_messagefilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_storyfiller.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_storyfiller.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_users.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_users.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_addfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_addfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menubar.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menubar.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bg.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bg.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_receiver_bubble.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\receiver_bubble.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pencil.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pencil.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_searchfilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_searchfilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_addbutton.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_addbutton.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_storyadd.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_storyadd.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_receiver_background.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\receiver_background.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pirple_button.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pirple_button.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menubar.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menubar.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menubar.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menubar.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menubar.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menubar.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pencil.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pencil.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_storyfiller.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_storyfiller.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_logo.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\background_logo.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_send_24.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pirple_button.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pirple_button.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user_white.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user_white.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menubar.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menubar.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic__5a10aa8_744e_4b62_a07e_707a93b030e4.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic__5a10aa8_744e_4b62_a07e_707a93b030e4.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filledhome.xml.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filledhome.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_worldwide__1_.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_worldwide__1_.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_page_background.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\profile_page_background.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_layotu.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\listview_layotu.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pirple_button.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pirple_button.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blur.png.flat",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\drawable\\blur.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_messagefilled.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_messagefilled.png"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pencil.png.flat",
+        "source": "L:\\MiniWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pencil.png"
+    }
+]

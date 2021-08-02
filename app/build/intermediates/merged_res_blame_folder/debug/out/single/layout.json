@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_story.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_add_story.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_for_post.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_for_post.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_message.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_post_layout.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\user_post_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_layout2.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\user_layout2.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\send_bubble.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\send_bubble.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_options.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_options.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_procile.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_user_procile.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\receiver_bubble.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\receiver_bubble.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_adding_post.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_adding_post.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\story_layout.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\story_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_users_posts.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_users_posts.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_log_in.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\listview_layotu.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\listview_layotu.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_page.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profile_post_layout.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\profile_post_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_search.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\user_search.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile_setting.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_profile_setting.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\post_layout.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\post_layout.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_story_viewing.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_story_viewing.xml"
+    },
+    {
+        "merged": "L:\\MiniWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat_detail.xml",
+        "source": "L:\\MiniWorld\\app\\src\\main\\res\\layout\\activity_chat_detail.xml"
+    }
+]
